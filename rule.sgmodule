@@ -1,0 +1,6 @@
+#!name=my rule
+#!desc=my rule
+
+[Rule]
+DOMAIN-SUFFIX,okg.com,DIRECT
+DOMAIN-SUFFIX,okappworld123.tk,DIRECT
