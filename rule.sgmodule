@@ -2,7 +2,7 @@
 #!desc=my rule
 
 [Rule]
-DOMAIN-SUFFIX,okg.com,VPN
-DOMAIN-SUFFIX,okappworld123.tk,VPN
-DOMAIN-SUFFIX,aliyuncs.com,VPN
-DOMAIN-SUFFIX,okex.org,VPN
+DOMAIN-SUFFIX,okg.com,DIRECT
+DOMAIN-SUFFIX,okappworld123.tk,DIRECT
+DOMAIN-SUFFIX,aliyuncs.com,DIRECT
+DOMAIN-SUFFIX,okex.org,DIRECT
