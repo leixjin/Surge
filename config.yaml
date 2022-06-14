@@ -4,7 +4,7 @@ proxies:
     type: ssr
     server: gqwnvbf7yxh.boyan.wiki
     port: 5420
-    password: V2efLnR3SJZrd
+    password: V2efLnR3SJZr
     cipher: aes-256-cfb
     protocol: auth_aes128_sha1
     obfs: http_simple
